@@ -1,0 +1,13 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+}
+
+.con {
+    background-color: black;
+    font-family: 'Consolas';
+    color: white;
+    font-size: 450%;
+}
